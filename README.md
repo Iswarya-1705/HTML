@@ -19,10 +19,15 @@ Heading Elements: There are six heading elements in HTML. The h1 through h6 head
 <h4>fourth most important heading element
 <h5>fifth most important heading element
 <h6>least important heading element
+# Elements
 Paragraph Elements: This is used for paragraphs on a web page.
+  
 img Elements: The img element is used to add images to the web page. The src attribute is used to specify the location for that image. For image elements, it's good practice to include another attribute called the alt attribute. Here's an example of an img element with the src and alt attributes:
-<img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/lasagna.jpg" alt="A slice of lasagna on a plate.">
+
 body Element: This element is used to represent the content for the HTML document.
+
 section Elements: This element is used to divide up content into smaller sections.
+
 div Elements: This element is a generic HTML element that does not hold any semantic meaning. It is used as a generic container to hold other HTML elements.
+
 # Today I have learnt this and by this I had created the webpage

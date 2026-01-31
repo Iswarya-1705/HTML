@@ -7,39 +7,22 @@ HTML Elements: Elements are the building blocks for an HTML document. They repre
 # Here is the basic syntax:
 <elementName>Content goes here</elementName>
 Void Elements: Void elements cannot have any content and only have a start tag. Examples include img and meta elements.
-# Here it is 
-<img>
-<meta>
 Attributes: An attribute is a value placed inside the opening tag of an HTML element. Attributes provide additional information about the element or specify how the element should behave. Here is the basic syntax for an attribute:
 <element attribute="value"></element>
 A boolean attribute is an attribute that can either be present or absent in an HTML tag. If present, the value is true otherwise it is false. Examples of boolean attributes include disabled, readonly, and required.
 Comments: Comments are used in programming to leave notes for yourself and other developers in your code. Here is the syntax for a comment in HTML:
-<!--This is an HTML comment.-->
 # Common HTML elements
 Heading Elements: There are six heading elements in HTML. The h1 through h6 heading elements are used to signify the importance of content below them. The lower the number, the higher the importance, so h2 elements have less importance than h1 elements.
-<h1>most important heading element</h1>
-<h2>second most important heading element</h2>
-<h3>third most important heading element</h3>
-<h4>fourth most important heading element</h4>
-<h5>fifth most important heading element</h5>
-<h6>least important heading element</h6>
+<h1>most important heading element
+<h2>second most important heading element
+<h3>third most important heading element
+<h4>fourth most important heading element
+<h5>fifth most important heading element
+<h6>least important heading element
 Paragraph Elements: This is used for paragraphs on a web page.
-<p>This is a paragraph element.</p>
 img Elements: The img element is used to add images to the web page. The src attribute is used to specify the location for that image. For image elements, it's good practice to include another attribute called the alt attribute. Here's an example of an img element with the src and alt attributes:
 <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/lasagna.jpg" alt="A slice of lasagna on a plate.">
 body Element: This element is used to represent the content for the HTML document.
-<body>
-  <h1>CatPhotoApp</h1>
-  <p>This is a paragraph element.</p>
-</body>    
 section Elements: This element is used to divide up content into smaller sections.
-<section>
-  <h2>About Me</h2>
-  <p>Hi, I am Jane Doe and I am a web developer.</p>
-</section>
 div Elements: This element is a generic HTML element that does not hold any semantic meaning. It is used as a generic container to hold other HTML elements.
-<div>
-  <h1>I am a heading</h1>
-  <p>I am a paragraph</p>
-</div>
 # Today I have learnt this and by this I had created the webpage

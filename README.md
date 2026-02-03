@@ -1,6 +1,6 @@
 # What I Learnt:
 # HTML
-Iam currently learning HTML because I Want to Become a Full Stack Developer. So now iam focusing on Frontend .
+Iam currently learning HTML because I Want to Become a Full Stack Developer.
 # HTML BASIC
 HTML Basics
 Role of HTML: HTML represents the content and structure of the web page.
